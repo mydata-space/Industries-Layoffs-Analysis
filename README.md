@@ -3,6 +3,8 @@
 ## Project Overview :
 This project analyzes industry layoffs during the COVID-19 pandemic. The dataset, sourced from Kaggle, contains 1,995 records from 2020 to 2023.
 
+<img width="1490" height="845" alt="image" src="https://github.com/user-attachments/assets/554bed99-32e0-426d-9a2b-dc7ed436c158" />
+
 ## Process:
 
 - Data Cleaning & EDA in MySQL:
