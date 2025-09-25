@@ -1,4 +1,4 @@
-# MySQL Workbench and Power BI Industries-Layoffs-Analysis(2020-2023)
+# The USA covid-19 Layoffs Analysis by Industry : Data Cleaning and Exploration 
 
 ## Project Overview :
 In this project I explore the industry layoffs during the COVID-19 pandemic. The dataset, sourced from Kaggle, contains 1,995 records from 2020 to 2023.
