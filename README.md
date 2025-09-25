@@ -1,18 +1,17 @@
 # MySQL Workbench and Power BI Industries-Layoffs-Analysis(2020-2023)
 
 ## Project Overview :
-This project analyzes industry layoffs during the COVID-19 pandemic. The dataset, sourced from Kaggle, contains 1,995 records from 2020 to 2023.
-<img width="1320" height="752" alt="image" src="https://github.com/user-attachments/assets/cebb6633-7624-4cce-bd56-729320bc2fdb" />
+In this project I explore the industry layoffs during the COVID-19 pandemic. The dataset, sourced from Kaggle, contains 1,995 records from 2020 to 2023.
 
 ## Process:
 
-- Data Cleaning & EDA in MySQL:
-  I Performed initial Exploratory Data Analysis (EDA) and cleaning to handle inconsistencies, standardize formats, and address missing values.
-- Visualization in Power BI:
-  I Created an interactive dashboard to visualize trends, filter by industry and country, and communicate key findings effectively.
+- Data Cleaning 
+  I cleaned data through the use of modify and update functions to handle inconsistencies, standardize formats, and address missing values.
+- Exploratory Data Analysis
+  I Performed initial Exploratory Data Analysis to discover trends and patterns through the dataset.
 
 ### Tool used: 
-*MySQL Workbench and Power BI*
+*MySQL Workbench
 
 ### Techniques used: 
 *Data Type Conversion, Aggregations, Window Functions, CTEs.*  
