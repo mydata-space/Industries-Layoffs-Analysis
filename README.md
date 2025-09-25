@@ -1,13 +1,13 @@
-# The USA covid-19 Layoffs Analysis by Industry : Data Cleaning and Exploration 
+# The USA Covid-19 Layoffs Analysis by Industry : Data Cleaning and Exploratory 
 
 ## Project Overview :
-In this project I explore the industry layoffs during the COVID-19 pandemic. The dataset, sourced from Kaggle, contains 1,995 records from 2020 to 2023.
+In this project, I explore the industry layoffs during the COVID-19 pandemic. The dataset, sourced from Kaggle, contains 1,995 records from 2020 to 2023.
 
 ## Process:
 
-- Data Cleaning 
+- Data Cleaning:
   I cleaned data through the use of modify and update functions to handle inconsistencies, standardize formats, and address missing values.
-- Exploratory Data Analysis
+- Exploratory Data Analysis:
   I Performed initial Exploratory Data Analysis to discover trends and patterns through the dataset.
 
 ### Tool used: 
